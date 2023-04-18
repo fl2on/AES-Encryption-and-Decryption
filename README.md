@@ -6,7 +6,15 @@ This is a simple example of how to use the AES encryption algorithm in C# to enc
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1008195045960204349/1097924203765829662/New_Website_Blue_Mockup_Instagram_-_Laptop_1.gif)
 
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Authors
+
+- [@qzxtu](https://www.github.com/qzxtu)
+
+## Support
+
+ [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nova355killer)   
+ [![Ko-Fi](https://img.shields.io/badge/kofi-00457C?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nova355)
