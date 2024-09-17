@@ -4,7 +4,7 @@ This is a simple example of how to use the AES encryption algorithm in C# to enc
 
 ## Screenshots
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1008195045960204349/1097924203765829662/New_Website_Blue_Mockup_Instagram_-_Laptop_1.gif)
+![App Screenshot](https://raw.githubusercontent.com/fl2on/AES-Encryption-and-Decryption/main/AES-Encryption-and-Decryption.gif)
 
 ## License
 
