@@ -12,7 +12,7 @@ This is a simple example of how to use the AES encryption algorithm in C# to enc
 
 ## Authors
 
-- [@qzxtu](https://www.github.com/qzxtu)
+- [@qzxtu](https://www.github.com/fl2on)
 
 ## Support
 
